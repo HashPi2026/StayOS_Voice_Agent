@@ -1,0 +1,10 @@
+{
+  "name": "StayOS - AI Hotel Check-In",
+  "description": "StayOS is a luxury AI-powered hotel guest check-in system featuring Aria, a virtual hotel receptionist.",
+  "requestFramePermissions": [
+    "MICROPHONE"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
